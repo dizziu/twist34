@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twist34
+- 👋 Hi, I’m @dizziu
 - 👀 I’m interested in game devlopment and web devlopment
 - 🌱 I’m currently learning Rust
 <!---
